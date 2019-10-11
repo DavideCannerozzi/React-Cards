@@ -1,0 +1,16 @@
+.card{
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+  flex-wrap:wrap;
+  padding:3rem;
+  width:80%;
+  margin:2.5rem auto;
+}
+
+/** Media Query **/
+@media (max-width:720px){
+  .card{
+    display:block;
+  } 
+}
