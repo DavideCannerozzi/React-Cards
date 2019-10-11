@@ -1,9 +1,5 @@
 Preview of the project:
-![screenshot](https://i.imgur.com/akh4bOa.jpg)
-
-Responsive:
-
-![screenshot](https://i.imgur.com/pt1h23J.jpg)
+<img src="https://i.imgur.com/akh4bOa.jpg" width="400px" height="500)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
