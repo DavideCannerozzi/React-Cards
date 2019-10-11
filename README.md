@@ -1,5 +1,4 @@
-Preview of the project:
-<img src="https://i.imgur.com/akh4bOa.jpg" width="400px" height="500)
+<img src="https://i.imgur.com/akh4bOa.jpg" align="left" height="500" width="500" >
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
