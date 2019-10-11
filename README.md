@@ -1,3 +1,10 @@
+Preview of the project:
+![screenshot](https://i.imgur.com/akh4bOa.jpg)
+
+Responsive:
+
+![screenshot](https://i.imgur.com/pt1h23J.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
